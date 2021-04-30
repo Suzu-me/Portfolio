@@ -1,0 +1,141 @@
+{
+    "main": {
+      "name": "Mohit Sharma",
+      "occupation": "(Full Stack Developer)",
+      "description": "I EAT SLEEP CODE.....",
+      "image": "profilepic.jpg",
+      "bio": "I am a self learner react developer worked with react, redux, styled components, mongoDB and implemented user authentication too. I am currently seeking for opportunity to fit my skillset and help to grow organization together.",
+      "contactmessage": "",
+      "email": "mohitdude5853@gmail.com",
+      "phone": "+91 9351919183",
+      "address": {
+        "street": "Naya Bazaar",
+        "city": "Ajmer",
+        "state": "Rajasthan",
+        "zip": "305001"
+      },
+      "website": "http://suzu-resume.web.app",
+      "resumedownload": "https://drive.google.com/drive/folders/1qMbu-wUamaaPN9nPP8YfYuIqgg_OoN4y",
+      "social": [
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/Mid9tRider",
+          "className": "fa fa-facebook"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/mid9t_rider",
+          "className": "fa fa-twitter"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/mohit-sharma-0987654321/",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/mid9t_rider/?igshid=1ro169qqgld4l",
+          "className": "fa fa-instagram"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/suzu-me/",
+          "className": "fa fa-github"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "",
+      "education": [
+        {
+          "school": "Maharshi Dayanand Saraswati University",
+          "degree": "Bachelor Of Computer Application",
+          "graduated": "December 2020",
+          "description": ""
+        },
+        {
+          "school": "Maharaja Agrasen Public School",
+          "degree": "Commerce",
+          "graduated": "March 2017",
+          "description": ""
+        }
+      ],
+      "work": [
+        {
+          "company": "Freelancer",
+          "title": "React Developer",
+          "years": "March 2020 - Present",
+          "description": "Create and clone the design of FANG websites with the help of javascript library and firebase, create an authentication based login system to see the further content. "
+        }
+        
+      ],
+      "skills": [
+        {
+          "name": "Git",
+          "level": "70%"
+        },
+        {
+          "name": "Firebase",
+          "level": "65%"
+        },
+        {
+          "name": "ReactJs",
+          "level": "50%"
+        },
+        {
+          "name": "CSS",
+          "level": "90%"
+        },
+        {
+          "name": "HTML5",
+          "level": "80%"
+        },
+        {
+          "name": "Python",
+          "level": "50%"
+        },
+        {
+          "name": "MongoDB",
+          "level": "80%"
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "Netflix N Chill",
+          "category": "A video streaming website",
+          "image": "netflix-chill.png",
+          "url": "https://netflix-chill.vercel.app/"
+        },
+        {
+          "title": "Disney +",
+          "category": "A video streaming platform user interface",
+          "image": "disney+.png",
+          "url": "https://disney-clone-b7a20.web.app/"
+        },
+        {
+          "title": "Spotify",
+          "category": "A music streaming platform user interface",
+          "image": "spotify.png",
+          "url": "https://spotify-9191.web.app/"
+        },
+        {
+          "title": "Portfolio",
+          "category": "My Portfolio based on React Js",
+          "image": "portfolio.png",
+          "url": "https://suzu-resume.web.app/"
+        }
+      ]
+    },
+    "testimonials": {
+      "testimonials": [
+        {
+          "text": "I knew it u have something inside you like heart lungs stomach and so on u r something :)",
+          "user": "Triza Robert"
+        }
+        
+      ]
+    }
+  }
+  
